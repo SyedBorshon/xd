@@ -3,7 +3,7 @@ echo '<!DOCTYPE HTML>
 <HTML>
 <HEAD>
 <link href="" rel="stylesheet" type="text/css">
-<title></title>
+<title>MiMO shell v3</title>
 <link href="https://angstromctf.com/styles.82005b2a88521a119644.bundle.css" rel="stylesheet"/>
 </HEAD>
 <BODY>
